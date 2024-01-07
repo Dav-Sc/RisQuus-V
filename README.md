@@ -2,17 +2,32 @@
 
 A RiscV OS
 
-## Goals of this OS
+## Goals of this OS:
 
-- Have a text editor
 - Manage Directory
-- Allow SSH/ports
-- Execute/compile C/C++ (and possibly Rust)
+- ~~Execute/compile C/C++ (and possibly Rust)~~ replacing this with a more reasonable linux like cat command to print out text
+- Have a text editor
+- ~~Allow SSH/ports~~ (Too advanced for me atm, will attempt when I have a better understanding of OSs)
 
-### RisQuus V
+### RisQuus V:
 
-A RiscV OS for learning purposes and to have the ability to be expanded on to add more compatability.
+A RiscV OS for learning purposes, maybe a bit too ambitous for my skills, but I will learn.
 
+### Accomplished (and compeltion goal):
+
+* [X] Hello World
+* [ ] Echo (End Feb)
+  * [ ] Allow tpying of text (End Jan)
+  * [ ] any text inputted is printed out (Mid Feb)
+* [ ] Directories (End May)
+  * [ ] Directory creation (Mid March)
+  * [ ] Directory movement(End March)
+  * [ ] Directory deletion (Mid April)
+* [ ] Text Editor (TBD)
+  * [ ] "write" command to text file
+  * [ ] "read" command reads specified file
+  * [ ] opening and seeing inside the text file
+  * [ ] moving cursor in text file
 
 ### Based off:
 
