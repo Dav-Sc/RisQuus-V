@@ -17,7 +17,7 @@ A RiscV OS for learning purposes, maybe a bit too ambitous for my skills, but I 
 
 * [X] Hello World
 * [ ] Echo (End Feb)
-  * [ ] Allow tpying of text (End Jan)
+  * [ ] Allow tpying of text (End Feb)
   * [ ] any text inputted is printed out (Mid Feb)
 * [ ] Directories (End May)
   * [ ] Directory creation (Mid March)
